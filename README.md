@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a knack for problem-solving and a love for learning new technologies. Here you can find some of the projects I've been working on and get to know a bit more about me.
 
-![Profile Views](https://komarev.com/ghpvc/?username=jamescasipong&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?jamescasipong=jamescasipong&color=brightgreen)
 
 ## 🚀 About Me
 
