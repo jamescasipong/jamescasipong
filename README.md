@@ -44,6 +44,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for proble
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter)](https://twitter.com/your-profile)
-[![Website](https://img.shields.io/badge/-Website-333333?style=flat&logo=website)](https://yourwebsite.com)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/jamescasipong)
+[![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/jamescasipong)
+[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://instagram.com/yourprofile)
+[![Facebook](https://img.icons8.com/color/48/000000/facebook-new.png)](https://facebook.com/yourprofile)
+[![Website](https://img.icons8.com/color/48/000000/domain.png)](https://jamescasipong.com)
