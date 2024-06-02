@@ -2,17 +2,17 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a knack for problem-solving and a love for learning new technologies. Here you can find some of the projects I've been working on and get to know a bit more about me.
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=jamescasipong&color=brightgreen)
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [Project Name](link-to-project)
-- 🌱 I’m currently learning React Native & ReactJS
-- 👯 I’m looking to collaborate on either game or web dev
-- 💬 Ask me about [Topics]
+- 🔭 I’m currently working on [Aether Gazer Libraries](link-to-project)
+- 🌱 I’m currently learning ReactJS & ReactNative
+- 👯 I’m looking to collaborate preferably on a game projects.
+- 🤔 I’m looking for help with how to study multiple languages at the same time.
 - 📫 How to reach me: jamesxcasipong@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Besides me being a programmer, I can also draw.
+- ⚡ Fun fact: Besides me being a programmer, I can also draw as I used to be an artist.
 
 ## 🛠️ Technologies & Tools
 
@@ -25,16 +25,16 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for proble
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![James Casipong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamescasipong&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=jamescasipong&theme=onedark)
 
 ## 📌 Pinned Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-name&theme=radical)](https://github.com/your-username/repo-name)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-name&theme=radical)](https://github.com/your-username/repo-name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=repo-name&theme=radical)](https://github.com/jamescasipong/repo-name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=repo-name&theme=radical)](https://github.com/jamescasipong/repo-name)
 
 ## 📫 Connect with Me
 
