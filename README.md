@@ -14,21 +14,23 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for proble
 
 ## 🛠️ Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwind-css)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" height="40"/>
+  <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/lua.png" alt="Lua" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" height="40"/>
+  <img src="https://img.icons8.com/ios/50/000000/unity.png" alt="Unity" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" alt="Tailwind CSS" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" height="40"/>
+</p>
 
 ## 📈 GitHub Stats
 
