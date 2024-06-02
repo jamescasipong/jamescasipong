@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for proble
 - 📫 How to reach me: jamesxcasipong@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Besides me being a programmer, I can also draw as I used to be an artist.
+- 💡 Knowing how to utilize AI can also be a skill.
 
 ## 🛠️ Technologies & Tools
 
