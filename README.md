@@ -23,6 +23,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for proble
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" height="40"/>
   <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" height="40"/>
+  <img src="https://simpleicons.org/icons/lua.svg" alt="Lua" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" height="40"/>
   <img src="https://img.icons8.com/ios/50/000000/unity.png" alt="Unity" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" height="40"/>
