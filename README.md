@@ -27,14 +27,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for proble
 
 ![James Casipong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamescasipong&show_icons=true&theme=radical)
 
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=jamescasipong&theme=onedark)
 
 ## 📌 Pinned Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=repo-name&theme=radical)](https://github.com/jamescasipong/repo-name)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=repo-name&theme=radical)](https://github.com/jamescasipong/repo-name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=hydrogen-template&theme=radical)](https://github.com/jamescasipong/hydrogen-template)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=TouchMeNot-Game&theme=radical)](https://github.com/jamescasipong/TouchMeNot-Game)
 
 ## 📫 Connect with Me
 
