@@ -19,9 +19,18 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for proble
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwind-css)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 ## 📈 GitHub Stats
 
