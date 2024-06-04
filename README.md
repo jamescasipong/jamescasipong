@@ -4,6 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for proble
 
 ## 🚀 About Me
 
+- 🌍 Nationality: **Filipino**
 - 🔭 I’m currently working on [Aether Gazer Libraries](link-to-project)
 - 🌱 I’m currently learning **ReactJS** & **ReactNative**
 - 👯 I’m looking to collaborate preferably on a game projects but web development is also fine.
