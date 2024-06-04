@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for proble
 ## 📈 GitHub Stats
 
 ![James Casipong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamescasipong&show_icons=true&theme=radical)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamescasipong&layout=compact&theme=radical&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamescasipong&layout=donut&theme=radical)
 
 ## 📌 Pinned Repositories
 
