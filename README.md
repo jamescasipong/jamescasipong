@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for proble
 
 - 🌍 Nationality: **Filipino**
 - 🔭 I’m currently working on [Aether Gazer Libraries](link-to-project)
-- 🌱 I’m currently learning **ReactJS** & **ReactNative**
+- 🌱 I’m currently learning **React**, **TypeScript** & **Tailwind**
 - 👯 I’m looking to collaborate preferably on a game projects but web development is also fine.
 - 🤔 I’m looking for help with how to study multiple languages at the same time.
 - 📫 How to reach me: jamesxcasipong@gmail.com
