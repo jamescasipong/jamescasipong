@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for proble
 - 🌱 I’m currently learning **React**, **TypeScript** & **Tailwind**
 - 👯 I’m looking to collaborate preferably on a game projects but web development is also fine.
 - 📫 How to reach me: jamesxcasipong@gmail.com
-- ⚡ Fun fact: Besides me being a programmer, I can also draw as I used to be an artist.
+- ⚡ Fun fact: Besides me being a programmer, I can also draw as I used to be really good at drawing.
 - 💡 Knowing how to utilize AI can also be a skill.
 
 ## 🛠️ Technologies & Tools
