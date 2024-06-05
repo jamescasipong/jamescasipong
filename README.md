@@ -48,4 +48,4 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for proble
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/james-casipong-65ba90244)
 [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://instagram.com/airisuuuuu)
 [![Facebook](https://img.icons8.com/color/48/000000/facebook-new.png)](https://facebook.com/casipongjames15)
-[![Website](https://img.icons8.com/color/48/000000/domain.png)](https://jamescasipong.netlify.app)
+[![Website](https://img.icons8.com/color/48/000000/domain.png)](https://jamesduruin.netlify.app)
