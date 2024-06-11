@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for proble
 <!--![James Casipong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamescasipong&show_icons=true&theme=radical)<br>-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamescasipong&layout=donut&theme=radical)
 
-## 📌 Pinned Repositories
+## 📌 My Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=Touch-Me-Not-2D-RPG&theme=radical)](https://github.com/jamescasipong/Touch-Me-Not-2D-RPG)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=hydrogen-template&theme=radical)](https://github.com/jamescasipong/hydrogen-template)
