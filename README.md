@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for proble
 ## 🚀 About Me
 
 - 🌍 Nationality: **Filipino**
-- 🔭 I’m currently working on **Aether Gazer Libraries**
+- 🔭 I’m currently working on **The Sisig Spot**
 - 🌱 I’m currently learning **React**, **TypeScript**, & **Lua**
 - 👯 I’m looking to collaborate preferably on a game projects but web development is also fine.
 - 📫 How to reach me: jamesxcasipong@gmail.com
