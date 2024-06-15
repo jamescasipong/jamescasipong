@@ -34,21 +34,41 @@ Welcome to my GitHub profile! I'm a passionate web developer. Today, I will star
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" height="40"/>
 </p>
 
+## 📈 GitHub Stats
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamescasipong&show_icons=true" alt="James Casipong's GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamescasipong&layout=compact" alt="Top Langs"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=jamescasipong" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamescasipong&show_icons=true&theme=transparent" alt="James Casipong's GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamescasipong&layout=compact&theme=transparent" alt="Top Langs"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=jamescasipong&theme=transparent" alt="GitHub Streak"/>
 </div>
 
 ## 📌 My Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=Touch-Me-Not-2D-RPG&theme=radical)](https://github.com/jamescasipong/Touch-Me-Not-2D-RPG)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=hydrogen-template&theme=radical)](https://github.com/jamescasipong/hydrogen-template)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=The-Sisig-Spot-Website&theme=radical)](https://github.com/jamescasipong/The-Sisig-Spot-Website)
+<div align="center">
+  <a href="https://github.com/jamescasipong/Touch-Me-Not-2D-RPG">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=Touch-Me-Not-2D-RPG&theme=default_repocard" alt="Touch Me Not 2D RPG"/>
+  </a>
+  <a href="https://github.com/jamescasipong/hydrogen-template">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=hydrogen-template&theme=default_repocard" alt="Hydrogen Template"/>
+  </a>
+  <a href="https://github.com/jamescasipong/The-Sisig-Spot-Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=The-Sisig-Spot-Website&theme=default_repocard" alt="The Sisig Spot Website"/>
+  </a>
+</div>
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/james-casipong-65ba90244)
-[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://instagram.com/airisuuuuu)
-[![Facebook](https://img.icons8.com/color/48/000000/facebook-new.png)](https://facebook.com/casipongjames15)
-[![Website](https://img.icons8.com/color/48/000000/domain.png)](https://jamesduruin.netlify.app)
+<p align="center">
+  <a href="https://www.linkedin.com/in/james-casipong-65ba90244">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/airisuuuuu">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
+  </a>
+  <a href="https://facebook.com/casipongjames15">
+    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook"/>
+  </a>
+  <a href="https://jamesduruin.netlify.app">
+    <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Website"/>
+  </a>
+</p>
