@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a knack for problem-solving and a love for learning new technologies. Today, I will start uploading some of my works that I have made in the past years which will be found here.
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jamescasipong&label=Profile%20views&color=0e75b6&style=flat" alt="comethalley" /> </p>
+
 ## 🚀 About Me
 
 - 🌍 Nationality: **Filipino**
