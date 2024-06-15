@@ -42,11 +42,9 @@ Welcome to my GitHub profile! I'm a passionate web developer. Today, I will star
 
 ## 📌 My Projects
 
-<div align="center">
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=Touch-Me-Not-2D-RPG&theme=radical)](https://github.com/jamescasipong/Touch-Me-Not-2D-RPG)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=hydrogen-template&theme=radical)](https://github.com/jamescasipong/hydrogen-template)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=The-Sisig-Spot-Website&theme=radical)](https://github.com/jamescasipong/The-Sisig-Spot-Website)
-</div>
 
 ## 📫 Connect with Me
 
