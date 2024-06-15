@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate web developer. Today, I will star
 
 - 🌍 Nationality: **Filipino**
 - 🔭 I’m currently working on **PNOYCusine**
-- 🌱 I’m currently learning **React**, **TypeScript**, & **Lua**
+- 🌱 I’m currently learning **React**, **TypeScript**, & **Firebase**
 - 👯 I’m looking to collaborate preferably on a game projects but web development is also fine.
 - 📫 How to reach me: jamesxcasipong@gmail.com
 - ⚡ Fun fact: Besides me being a programmer, I can also draw as I used to be really good at drawing.
