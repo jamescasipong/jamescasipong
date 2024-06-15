@@ -1,6 +1,6 @@
 # Hi there, I'm James Casipong 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a knack for problem-solving and a love for learning new technologies. Today, I will start uploading some of my works that I have made in the past years which will be found here.
+Welcome to my GitHub profile! I'm a passionate web developer. Today, I will start working on my GitHub and upload some of my works that I have made in the past years which will be found here.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jamescasipong&label=Profile%20views&color=0e75b6&style=flat" alt="comethalley" /> </p>
 
