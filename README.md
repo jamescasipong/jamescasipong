@@ -35,9 +35,9 @@ Welcome to my GitHub profile! I'm a passionate web developer. Today, I will star
 </p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamescasipong&show_icons=true&theme=radical" alt="James Casipong's GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamescasipong&layout=compact&theme=radical" alt="Top Langs"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=jamescasipong&theme=radical" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamescasipong&show_icons=true" alt="James Casipong's GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamescasipong&layout=compact" alt="Top Langs"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=jamescasipong" alt="GitHub Streak"/>
 </div>
 
 ## 📌 My Projects
