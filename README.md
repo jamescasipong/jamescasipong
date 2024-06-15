@@ -44,17 +44,15 @@ Welcome to my GitHub profile! I'm a passionate web developer. Today, I will star
 
 ## 📌 My Projects
 
-<div align="center">
-  <a href="https://github.com/jamescasipong/Touch-Me-Not-2D-RPG">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=Touch-Me-Not-2D-RPG&theme=default_repocard" alt="Touch Me Not 2D RPG"/>
-  </a>
-  <a href="https://github.com/jamescasipong/hydrogen-template">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=hydrogen-template&theme=default_repocard" alt="Hydrogen Template"/>
-  </a>
-  <a href="https://github.com/jamescasipong/The-Sisig-Spot-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=The-Sisig-Spot-Website&theme=default_repocard" alt="The Sisig Spot Website"/>
-  </a>
-</div>
+<a href="https://github.com/jamescasipong/Touch-Me-Not-2D-RPG">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=Touch-Me-Not-2D-RPG&theme=transparent" alt="Touch Me Not 2D RPG"/>
+</a>
+<a href="https://github.com/jamescasipong/hydrogen-template">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=hydrogen-template&theme=transparent" alt="Hydrogen Template"/>
+</a>
+<a href="https://github.com/jamescasipong/The-Sisig-Spot-Website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=The-Sisig-Spot-Website&theme=transparent" alt="The Sisig Spot Website"/>
+</a>
 
 ## 📫 Connect with Me
 
