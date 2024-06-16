@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate web developer. Today, I will star
 - 📫 How to reach me: jamesxcasipong@gmail.com --->
 
 ```rust
-fn main() {
+fn AboutMe() {
     let name = 'James Casipong';
     let nationality = 'Filipino';
     let acknowledgements = 'Game & Web Developer';
