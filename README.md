@@ -4,6 +4,8 @@ Welcome to my GitHub profile! I'm a passionate web developer. Today, I will star
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jamescasipong&label=Profile%20views&color=0e75b6&style=flat" alt="comethalley" /> </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Developer+%7C+Game+Developer)](https://git.io/typing-svg)
+
 <!--- 
 
 - 🌍 Nationality: **Filipino**
