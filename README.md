@@ -4,16 +4,16 @@ Welcome to my GitHub profile! I'm a passionate web developer. Today, I will star
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jamescasipong&label=Profile%20views&color=0e75b6&style=flat" alt="comethalley" /> </p>
 
-<!--- ## 🚀 About Me
+<!--- 
 
 - 🌍 Nationality: **Filipino**
 - 🔭 I’m currently working on [PNOYCusine](https://github.com/jamescasipong/PNOY-Cuisine-Website)
 - 🌱 I’m currently mastering **React**, **TypeScript**, **Laravel** & **Firebase**
 - 👯 I’m looking to collaborate preferably on a web development projects but game projects based in Unity is also fine.
 - 📫 How to reach me: jamesxcasipong@gmail.com --->
-
+## 🚀 About Me
 ```rust
-fn AboutMe() {
+fn main() {
     let name = 'James Casipong';
     let nationality = 'Filipino';
     let acknowledgements = 'Game & Web Developer';
