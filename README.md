@@ -12,6 +12,17 @@ Welcome to my GitHub profile! I'm a passionate web developer. Today, I will star
 - 👯 I’m looking to collaborate preferably on a web development projects but game projects based in Unity is also fine.
 - 📫 How to reach me: jamesxcasipong@gmail.com
 
+```rust
+fn main() {
+    let name = 'James Casipong';
+    let acknowledgements = 'Game & Web Developer';
+    let mastering = 'React, TypeScript, Laravel, & Firebase';
+    let location = 'Philippines';
+    let contact = 'jamesxcasipong@gmail.com';
+}
+
+```
+
 ## 🛠️ Technologies & Tools
 
 | Category            | Tools                                                                                   |
