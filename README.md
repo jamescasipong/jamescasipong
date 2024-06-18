@@ -25,7 +25,7 @@ fn main() {
     let acknowledgements = 'Game & Web Developer';
     let imLearning = 'ReactNative & Next.js';
     let imMastering = 'ViteJS, TypeScript, Laravel, & Firebase';
-    let factAboutMe = 'I used to be an aspiring game developer but being a full stack developer is more fun'
+    let factAboutMe = 'I used to be an aspiring game developer but being a full stack developer is more fun';
     let contact = 'jamesxcasipong@gmail.com';
 }
 
