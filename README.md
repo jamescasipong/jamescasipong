@@ -1,6 +1,6 @@
 # Hi there, I'm James Casipong 👋
 
-Welcome to my GitHub profile! I'm a passionate web developer. Today, I will start working on my GitHub and upload some of my works that I have made in the past years which will be found here.
+Welcome to my GitHub profile! I'm a young aspiring software developer. Today, I will start working on my GitHub and upload some of my works that I have made in the past years which will be found here.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jamescasipong&label=Profile%20views&color=0e75b6&style=flat" alt="comethalley" /> </p>
 
@@ -17,13 +17,15 @@ Welcome to my GitHub profile! I'm a passionate web developer. Today, I will star
 - 🌱 I’m currently mastering **React**, **TypeScript**, **Laravel** & **Firebase**
 - 👯 I’m looking to collaborate preferably on a web development projects but game projects based in Unity is also fine.
 - 📫 How to reach me: jamesxcasipong@gmail.com --->
+
 ## 🚀 About Me
 ```rust
 fn main() {
     let nationality = 'Filipino';
     let acknowledgements = 'Game & Web Developer';
-    let imMastering = 'React, TypeScript, Laravel, & Firebase';
-    let location = 'Philippines';
+    let imLearning = 'ReactNative & Next.js';
+    let imMastering = 'ViteJS, TypeScript, Laravel, & Firebase';
+    let factAboutMe = 'I used to be an aspiring game developer but being a full stack developer is more fun'
     let contact = 'jamesxcasipong@gmail.com';
 }
 
