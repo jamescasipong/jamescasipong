@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a young aspiring full stack developer. Today, 
 ```rust
 fn main() {
     let nationality = 'Filipino';
-    let acknowledgements = 'Game & Web Developer';
+    let acknowledgements = 'Game & Full Stack Developer';
     let imLearning = 'ReactNative & Next.js';
     let imMastering = 'ViteJS, TypeScript, Laravel, & Firebase';
     let factAboutMe = 'I used to be an aspiring game developer but being a full stack developer is more fun';
