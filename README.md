@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a young aspiring web developer. Today, I will 
 
 - 🌍 Nationality: **Filipino**
 - 🔭 I’m currently working on [PNOYCusine](https://github.com/jamescasipong/PNOY-Cuisine-Website)
-- 🌱 I’m currently mastering **React**, **TypeScript**, **Laravel** & **Firebase**
+- 🌱 I’m currently learning **React**, **RestAPI**, **TypeScript**, **Laravel** & **Firebase**
 - 👯 I’m looking to collaborate preferably on a web development projects but game projects based in Unity is also fine.
 - 📫 How to reach me: jamesxcasipong@gmail.com --->
 
