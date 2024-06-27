@@ -4,6 +4,8 @@ Welcome to my GitHub profile! I'm a young aspiring software engineer. Today, I w
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jamescasipong&label=Profile%20views&color=0e75b6&style=flat" alt="comethalley" /> </p>
 
+C# was the closed book; JavaScript is the story I'm learning to read.
+
 <!---<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Web+Developer+%7C+Game+Developer" alt="Typing SVG">
@@ -25,7 +27,7 @@ fn main() {
     let acknowledgements = 'Game & Web Developer';
     let imLearning = 'ReactNative & Next.js';
     let imMastering = 'ViteJS, TypeScript, Laravel, & Firebase';
-    let factAboutMe = 'I used to be an aspiring game developer but being a full stack developer is more fun';
+    let factAboutMe = 'I used to be an aspiring game developer but being a full stack developer is more fun. I loved C# until I';
     let contact = 'jamesxcasipong@gmail.com';
 }
 
