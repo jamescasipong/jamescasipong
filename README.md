@@ -60,9 +60,9 @@ fn main() {
 <a href="https://github.com/jamescasipong/PNOY-Cuisine-Website">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=PNOY-Cuisine-Website&theme=transparent" alt="PNOY-Cuisine-Website"/>
 </a>
-<a href="https://github.com/jamescasipong/react-bank-websites">
+<!---<a href="https://github.com/jamescasipong/react-bank-websites">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=react-bank-websites&theme=transparent" alt="React Bank Website"/>
-</a>
+</a>-->
 
 
 ## 📫 Connect with Me
