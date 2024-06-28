@@ -53,14 +53,14 @@ fn main() {
   <img height="180em" src="https://streak-stats.demolab.com?user=jamescasipong&theme=transparent" alt="GitHub Streak"/>
 </div>
  
-## 📌 My Projects
+<!---## 📌 My Projects
 <a href="https://github.com/jamescasipong/Touch-Me-Not-2D-RPG">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=Touch-Me-Not-2D-RPG&theme=transparent" alt="Touch Me Not 2D RPG"/>
 </a>
 <a href="https://github.com/jamescasipong/PNOY-Cuisine-Website">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=PNOY-Cuisine-Website&theme=transparent" alt="PNOY-Cuisine-Website"/>
 </a>
-<!---<a href="https://github.com/jamescasipong/react-bank-websites">
+<a href="https://github.com/jamescasipong/react-bank-websites">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=react-bank-websites&theme=transparent" alt="React Bank Website"/>
 </a>-->
 
