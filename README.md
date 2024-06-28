@@ -52,14 +52,18 @@ fn main() {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamescasipong&layout=compact&theme=transparent" alt="Top Langs"/>
   <img height="180em" src="https://streak-stats.demolab.com?user=jamescasipong&theme=transparent" alt="GitHub Streak"/>
 </div>
-<!--- 
+ 
 ## 📌 My Projects
 <a href="https://github.com/jamescasipong/Touch-Me-Not-2D-RPG">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=Touch-Me-Not-2D-RPG&theme=transparent" alt="Touch Me Not 2D RPG"/>
 </a>
-<a href="https://github.com/jamescasipong/The-Sisig-Spot-Website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=The-Sisig-Spot-Website&theme=transparent" alt="The Sisig Spot Website"/>
-</a>-->
+<a href="https://github.com/jamescasipong/PNOY-Cuisine-Website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=PNOY-Cuisine-Website&theme=transparent" alt="PNOY-Cuisine-Website"/>
+</a>
+<a href="https://github.com/jamescasipong/react-bank-websites">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=react-bank-websites&theme=transparent" alt="React Bank Website"/>
+</a>
+
 
 ## 📫 Connect with Me
 
