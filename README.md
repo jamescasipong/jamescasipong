@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71168&random=false&width=435&lines=Hi%2C+James+here!;and+I'm+single+%3A));A+Full+Stack+Developer;A+Software+Engineer;C%23+%26+JS+Enthusiast)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71168&random=false&width=435&lines=Hi%2C+James+here!;and+I'm+single+%3A));A+Full+Stack+Developer;A+Software+Engineer;C%23+%26+JS+Enthusiast" alt="Typing SVG" /></a>
 
 Welcome to my GitHub profile! I'm a young aspiring software engineer. Today, I will start working on my GitHub and upload some of my works that I have made in the past years which will be found here.
 
