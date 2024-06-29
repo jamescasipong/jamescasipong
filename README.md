@@ -38,7 +38,7 @@ fn main() {
 
 ## Recently Played
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31pzmswfgyghxo5ylitfn2uvfeja&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31pzmswfgyghxo5ylitfn2uvfeja)
 
 ## 🛠️ Technologies & Tools
 
