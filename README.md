@@ -36,9 +36,9 @@ fn main() {
 
 ```
 
-## Recently Played
+## What I listened recently
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31pzmswfgyghxo5ylitfn2uvfeja)
+![Recent Played](https://spotify-recently-played-readme.vercel.app/api?user=31pzmswfgyghxo5ylitfn2uvfeja)
 
 ## 🛠️ Technologies & Tools
 
