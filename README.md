@@ -36,7 +36,7 @@ fn main() {
 
 ```
 
-## What I listened recently
+## Spotifyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31pzmswfgyghxo5ylitfn2uvfeja" alt="Recent Played">
 </p>
