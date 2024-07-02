@@ -36,7 +36,7 @@ fn main() {
 
 ```
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="Spotify" width="20" height="20" /> My Spotifyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+## <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="Spotify" width="25" height="25" /> My Spotifyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
 
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31pzmswfgyghxo5ylitfn2uvfeja" alt="Recent Played">
