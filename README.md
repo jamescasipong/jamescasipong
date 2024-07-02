@@ -36,7 +36,8 @@ fn main() {
 
 ```
 
-## Spotifyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+## <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="Spotify" width="30" height="30" /> Spotifyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31pzmswfgyghxo5ylitfn2uvfeja" alt="Recent Played">
 </p>
