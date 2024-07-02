@@ -63,7 +63,7 @@ fn main() {
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamescasipong&show_icons=true&theme=transparent" alt="James Casipong's GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamescasipong&layout=compact&theme=gradient" alt="Top Langs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamescasipong&layout=compact&theme=ambient_gradient" alt="Top Langs"/>
   <img height="180em" src="https://streak-stats.demolab.com?user=jamescasipong&theme=transparent" alt="GitHub Streak"/>
 </div>
  
