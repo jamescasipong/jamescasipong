@@ -81,17 +81,10 @@ fn main() {
 
 ## 📫 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/james-casipong-65ba90244">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/airisuuuuu">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
-  </a>
-  <a href="https://facebook.com/casipongjames15">
-    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook"/>
-  </a>
-  <a href="https://jcasipong-dev.vercel.app">
-    <img src="https://jcasipong-dev.vercel.app/images/icons2.ico" width="20" height="20" alt="Website"/>
-  </a>
-</p>
+### Connect with Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-casipong-65ba90244)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/casipongjames15)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/arisu.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://jcasipong-dev.vercel.app)
+
