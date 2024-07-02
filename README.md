@@ -42,16 +42,6 @@ fn main() {
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31pzmswfgyghxo5ylitfn2uvfeja" alt="Recent Played">
 </p>
 
-<!-- Add Spotify logo and link -->
-<p align="center">
-  <a href="https://open.spotify.com/user/your-spotify-user-id">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="Spotify" width="100" height="100">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31pzmswfgyghxo5ylitfn2uvfeja" alt="Recent Played">
-</p>
 
 
 ## 🛠️ Technologies & Tools
