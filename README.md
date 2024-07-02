@@ -91,7 +91,7 @@ fn main() {
   <a href="https://facebook.com/casipongjames15">
     <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook"/>
   </a>
-  <a href="https://jamesduruin.netlify.app">
-    <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Website"/>
+  <a href="https://jcasipong-dev.vercel.app">
+    <img src="https://jcasipong-dev.vercel.app/images/icons2.ico" alt="Website"/>
   </a>
 </p>
