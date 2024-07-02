@@ -92,6 +92,6 @@ fn main() {
     <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook"/>
   </a>
   <a href="https://jcasipong-dev.vercel.app">
-    <img src="https://jcasipong-dev.vercel.app/images/icons2.ico" heigh="48px" weight="48px" alt="Website"/>
+    <img src="https://jcasipong-dev.vercel.app/images/icons2.ico" width="20" height="20" alt="Website"/>
   </a>
 </p>
