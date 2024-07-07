@@ -57,7 +57,7 @@ fn main() {
 | **Hosting**              | ![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) |
 | **IDEs/Editors**         | ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) |
 
-
+fact about me: I used to believe I was a prodigy as a kid, excelling in almost everything: basketball, running, every video game I played, and street games like pogs, jolen, etc. I was often praised for my skills, especially in drawing, to the point that it became irritating for me. However, I lost passion for all of it, perhaps due to getting older or family problems. I even lost my talent in art, a talent I inherited from my father, which was frustrating because I couldn't now draw a human or an anime character without relying on facial or body construction aids. But this time, I will make sure not to lose it again. I'm confident in my abilities and aspire to excel as a full-stack developer, as competitive as I used to be.
 
 ## 📈 GitHub Stats
 
