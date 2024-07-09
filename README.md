@@ -8,6 +8,10 @@
 
 
 Welcome to my GitHub profile! Today, I will start working on my GitHub and upload some of my works that I have made in the past years which will be found here. :))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-casipong-65ba90244)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/casipongjames15)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/arisu.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://jcasipong-dev.vercel.app)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jamescasipong&label=Profile%20views&color=0e75b6&style=flat" alt="comethalley" /> </p>
 
@@ -80,8 +84,5 @@ fn main() {
 
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-casipong-65ba90244)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/casipongjames15)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/arisu.dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://jcasipong-dev.vercel.app)
+
 
