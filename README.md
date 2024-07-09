@@ -51,7 +51,6 @@ fn main() {
 
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31pzmswfgyghxo5ylitfn2uvfeja" alt="Recent Played">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31pzmswfgyghxo5ylitfn2uvfeja" alt="Recent Played">
 </p>
 
 
