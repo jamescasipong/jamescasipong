@@ -13,7 +13,7 @@ Welcome to my GitHub profile! Today, I will start working on my GitHub and uploa
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jamescasipong&label=Profile%20views&color=0e75b6&style=flat" alt="comethalley" /> </p>
 
 
-[![committers.top badge](https://user-badge.committers.top/philippines/jamescasipong.svg)](https://user-badge.committers.top/philippines/jamescasipong)
+<!--[![committers.top badge](https://user-badge.committers.top/philippines/jamescasipong.svg)](https://user-badge.committers.top/philippines/jamescasipong)-->
 
 
 <div align="center">
