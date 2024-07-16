@@ -46,7 +46,7 @@ Welcome to my GitHub profile! Today, I will start working on my GitHub and uploa
 ```rust
 fn main() {
     let nationality = 'Filipino';
-    let imLearning = 'ReactNative & Next.js';
+    let imLearning = 'ReactNative, NodeJS, & ExpressJS';
     let imMastering = 'ViteJS, TypeScript, Laravel, & Firebase';
     let contact = 'jamesxcasipong@gmail.com';
 }
