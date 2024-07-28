@@ -17,15 +17,9 @@ Welcome to my GitHub profile! Today, I will start working on my GitHub and uploa
 
 <div align="center">
   
-<a href="https://www.linkedin.com/in/jamescasipong" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://www.facebook.com/casipongjames15" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
-</a>
-<a href="https://jcasipong-dev.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamescasipong)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/casipongjames15)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://jcasipong-dev.vercel.app)
 
 <!--[![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?style=flat-square&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/Arisuuuus)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/Shikitsumi-chan/)-->
