@@ -5,7 +5,7 @@
 </p>
 
 
-
+<!--Full Stack Developer | Software Engineer | Game Developer | Former C# Enthusiast -> JS & Python Enjoyer-->
 
 Welcome to my GitHub profile! Today, I will start working on my GitHub and upload some of my works that I have made in the past years which will be found here.. :)))
 
