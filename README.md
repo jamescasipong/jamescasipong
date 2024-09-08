@@ -48,7 +48,7 @@ Welcome to my GitHub profile! Today, I will start working on my GitHub and uploa
 fn main() {
     let nationality = 'Filipino';
     let imLearning = 'ReactNative, NodeJS, & ExpressJS';
-    let imMastering = 'ViteJS, TypeScript, Laravel, & Firebase';
+    let imMastering = 'ViteJS, TypeScript, Laravel, Firebade, & ASP.NET';
     let contact = 'jamesxcasipong@gmail.com';
 }
 
