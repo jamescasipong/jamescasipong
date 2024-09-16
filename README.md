@@ -44,8 +44,8 @@ Welcome to my GitHub profile! Today, I will start working on my GitHub and uploa
 - 📫 How to reach me: jamesxcasipong@gmail.com --->
 
 ## 🚀 About Me
-```javascript
-function AboutMe() {
+```js
+function aboutMe() {
     let nationality = 'Filipino';
     let imLearning = 'ReactNative, NodeJS, & ExpressJS';
     let imMastering = 'ViteJS, TypeScript, Laravel, Firebade, & ASP.NET';
