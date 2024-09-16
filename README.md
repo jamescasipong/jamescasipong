@@ -45,7 +45,7 @@ Welcome to my GitHub profile! Today, I will start working on my GitHub and uploa
 
 ## 🚀 About Me
 ```js
-function aboutMe() {
+cons aboutMe = () => {
     let nationality = 'Filipino';
     let imLearning = 'ReactNative, NodeJS, & ExpressJS';
     let imMastering = 'ViteJS, TypeScript, Laravel, Firebade, & ASP.NET';
