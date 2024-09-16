@@ -44,14 +44,13 @@ Welcome to my GitHub profile! Today, I will start working on my GitHub and uploa
 - 📫 How to reach me: jamesxcasipong@gmail.com --->
 
 ## 🚀 About Me
-```rust
-fn main() {
+```javascript
+function AboutMe() {
     let nationality = 'Filipino';
     let imLearning = 'ReactNative, NodeJS, & ExpressJS';
     let imMastering = 'ViteJS, TypeScript, Laravel, Firebade, & ASP.NET';
     let contact = 'jamesxcasipong@gmail.com';
 }
-
 ```
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="Spotify" width="20" height="20" /> My Spotifyyyyyy
