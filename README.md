@@ -97,7 +97,7 @@ cons aboutMe = () => {
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=Touch-Me-Not-2D-RPG&theme=transparent" alt="Touch Me Not 2D RPG"/>
 </a>
 <a href="https://github.com/jamescasipong/hrconnectbackend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=Touch-Me-Not-2D-RPG&theme=transparent" alt="HRConnectAPI"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=hrconnectbackend&theme=transparent" alt="HRConnectAPI"/>
 </a>
 <a href="https://github.com/jamescasipong/crudapi-fastapi">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=crudapi-fastapi&theme=transparent" alt="CRUD Fast API"/>
