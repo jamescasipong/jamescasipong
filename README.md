@@ -89,31 +89,27 @@ cons aboutMe = () => {
   <!--<img height="180em" src="https://streak-stats.demolab.com?user=jamescasipong&theme=transparent" alt="GitHub Streak"/>-->
 </div>
  
-<!---## 📌 My Projects
+## 📌 My Projects
 <a href="https://github.com/jamescasipong/Touch-Me-Not-2D-RPG">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=Touch-Me-Not-2D-RPG&theme=transparent" alt="Touch Me Not 2D RPG"/>
 </a>
-<a href="https://github.com/jamescasipong/PNOY-Cuisine-Website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=PNOY-Cuisine-Website&theme=transparent" alt="PNOY-Cuisine-Website"/>
-</a>-->
-
-
-
-## 📌 Pinned Repositories
-
-| Repository | Description | Technologies |
-|------------|-------------|--------------|
-| [**Touch Me Not 2D RPG**](https://github.com/jamescasipong/Touch-Me-Not-2D-RPG) | Brief description of what this project does. | JavaScript, React, Node.js |
-| [**Repo Name 2**](https://github.com/your-username/repo-name-2) | Brief description of what this project does. | Python, Django, PostgreSQL |
-| [**Repo Name 3**](https://github.com/your-username/repo-name-3) | Brief description of what this project does. | Java, Spring Boot, MongoDB |
-| [**Repo Name 4**](https://github.com/your-username/repo-name-4) | Brief description of what this project does. | HTML, CSS, JavaScript |
-
----
-<a href="https://github.com/jamescasipong/react-bank-websites">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=react-bank-websites&theme=transparent" alt="React Bank Website"/>
+<a href="https://github.com/jamescasipong/hrconnectbackend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=Touch-Me-Not-2D-RPG&theme=transparent" alt="HRConnectAPI"/>
 </a>
-
-
-## 📫 Connect with Me-->
+<a href="https://github.com/jamescasipong/crudapi-fastapi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=crudapi-fastapi&theme=transparent" alt="CRUD Fast API"/>
+</a>
+<a href="https://github.com/jamescasipong/jcasipong-portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&jcasipong-portfolio&theme=transparent" alt="Personal Portfolio"/>
+</a>
+<a href="https://github.com/jamescasipong/isp-services">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&isp-services&theme=transparent" alt="Optinet ISP"/>
+</a>
+<a href="https://github.com/jamescasipong/task-tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&task-tracker&theme=transparent" alt="Monitor360"/>
+</a>
+<a href="https://github.com/jamescasipong/hr-management-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&hr-management-system&theme=transparent" alt="HRConnect"/>
+</a>
 
 
