@@ -96,6 +96,19 @@ cons aboutMe = () => {
 <a href="https://github.com/jamescasipong/PNOY-Cuisine-Website">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=PNOY-Cuisine-Website&theme=transparent" alt="PNOY-Cuisine-Website"/>
 </a>
+
+
+
+## 📌 Pinned Repositories
+
+| Repository | Description | Technologies |
+|------------|-------------|--------------|
+| [**Touch Me Not 2D RPG**](https://github.com/jamescasipong/Touch-Me-Not-2D-RPG) | Brief description of what this project does. | JavaScript, React, Node.js |
+| [**Repo Name 2**](https://github.com/your-username/repo-name-2) | Brief description of what this project does. | Python, Django, PostgreSQL |
+| [**Repo Name 3**](https://github.com/your-username/repo-name-3) | Brief description of what this project does. | Java, Spring Boot, MongoDB |
+| [**Repo Name 4**](https://github.com/your-username/repo-name-4) | Brief description of what this project does. | HTML, CSS, JavaScript |
+
+---
 <a href="https://github.com/jamescasipong/react-bank-websites">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=react-bank-websites&theme=transparent" alt="React Bank Website"/>
 </a>
