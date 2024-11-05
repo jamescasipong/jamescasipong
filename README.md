@@ -92,19 +92,19 @@ cons aboutMe = () => {
 ## 📌 My Projects
 
 <a href="https://github.com/jamescasipong/Touch-Me-Not-2D-RPG">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=Touch-Me-Not-2D-RPG&theme=transparent" alt="Touch Me Not 2D RPG" style="height: 200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=Touch-Me-Not-2D-RPG&theme=transparent" alt="Touch Me Not 2D RPG"/>
 </a>
 <a href="https://github.com/jamescasipong/hrconnectbackend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=Touch-Me-Not-2D-RPG&theme=transparent" alt="HRConnectAPI" style="height: 200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=Touch-Me-Not-2D-RPG&theme=transparent" alt="HRConnectAPI"/>
 </a>
 <a href="https://github.com/jamescasipong/crudapi-fastapi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=crudapi-fastapi&theme=transparent" alt="CRUD Fast API" style="height: 200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=crudapi-fastapi&theme=transparent" alt="CRUD Fast API"/>
 </a>
 <a href="https://github.com/jamescasipong/jcasipong-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=jcasipong-portfolio&theme=transparent" alt="Personal Portfolio" style="height: 200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=jcasipong-portfolio&theme=transparent" alt="Personal Portfolio"/>
 </a>
 <a href="https://github.com/jamescasipong/isp-services">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=isp-services&theme=transparent" alt="Optinet ISP" style="height: 200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=isp-services&theme=transparent" alt="Optinet ISP"/>
 </a>
 
 <a href="https://github.com/jamescasipong/task-tracker">
