@@ -43,7 +43,6 @@ Welcome to my GitHub profile! Today, I will start working on my GitHub and uploa
 - 👯 I’m looking to collaborate preferably on a web development projects but game projects based in Unity is also fine.
 - 📫 How to reach me: jamesxcasipong@gmail.com --->
 
-<!--- 
 ## 🚀 About Me
 ```js
 cons aboutMe = () => {
@@ -52,7 +51,7 @@ cons aboutMe = () => {
     let imMastering = 'ViteJS, TypeScript, Laravel, Firebade, & ASP.NET';
     let contact = 'jamesxcasipong@gmail.com';
 }
-``` --->
+``` 
 
 <!--- 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="Spotify" width="20" height="20" /> My Spotifyyyyyy
@@ -77,7 +76,7 @@ cons aboutMe = () => {
 | **API Testing**          | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white) ![REST](https://img.shields.io/badge/REST-000000?style=for-the-badge&logo=rest&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) |
 
 
-
+ --->
 
 
 
@@ -90,7 +89,7 @@ cons aboutMe = () => {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamescasipong&layout=compact&theme=transparent" alt="Top Langs"/>
   <!--<img height="180em" src="https://streak-stats.demolab.com?user=jamescasipong&theme=transparent" alt="GitHub Streak"/>-->
 </div>
- --->
+
  
 ## 📌 My Projects
 
