@@ -95,7 +95,7 @@ cons aboutMe = () => {
 </a>
 <a href="https://github.com/jamescasipong/PNOY-Cuisine-Website">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=PNOY-Cuisine-Website&theme=transparent" alt="PNOY-Cuisine-Website"/>
-</a>
+</a>-->
 
 
 
