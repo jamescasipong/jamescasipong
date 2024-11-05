@@ -112,4 +112,7 @@ cons aboutMe = () => {
 <a href="https://github.com/jamescasipong/jcasipong-portfolio">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=jcasipong-portfolio&theme=transparent" alt="Personal Portfolio"/>
 </a>
+<a href="https://github.com/jamescasipong/socmedia-api">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=socmedia-api&theme=transparent" alt="SocMedia"/>
+</a>
 
