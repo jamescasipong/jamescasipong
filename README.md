@@ -90,21 +90,23 @@ cons aboutMe = () => {
 </div>
  
 ## 📌 My Projects
+
 <a href="https://github.com/jamescasipong/Touch-Me-Not-2D-RPG">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=Touch-Me-Not-2D-RPG&theme=transparent" alt="Touch Me Not 2D RPG"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=Touch-Me-Not-2D-RPG&theme=transparent" alt="Touch Me Not 2D RPG" style="height: 200px;"/>
 </a>
 <a href="https://github.com/jamescasipong/hrconnectbackend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=Touch-Me-Not-2D-RPG&theme=transparent" alt="HRConnectAPI"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=Touch-Me-Not-2D-RPG&theme=transparent" alt="HRConnectAPI" style="height: 200px;"/>
 </a>
 <a href="https://github.com/jamescasipong/crudapi-fastapi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=crudapi-fastapi&theme=transparent" alt="CRUD Fast API"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=crudapi-fastapi&theme=transparent" alt="CRUD Fast API" style="height: 200px;"/>
 </a>
 <a href="https://github.com/jamescasipong/jcasipong-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=jcasipong-portfolio&theme=transparent" alt="Personal Portfolio"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=jcasipong-portfolio&theme=transparent" alt="Personal Portfolio" style="height: 200px;"/>
 </a>
 <a href="https://github.com/jamescasipong/isp-services">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=isp-services&theme=transparent" alt="Optinet ISP"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=isp-services&theme=transparent" alt="Optinet ISP" style="height: 200px;"/>
 </a>
+
 <a href="https://github.com/jamescasipong/task-tracker">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=task-tracker&theme=transparent" alt="Monitor360"/>
 </a>
