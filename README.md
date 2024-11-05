@@ -100,18 +100,16 @@ cons aboutMe = () => {
 <a href="https://github.com/jamescasipong/crudapi-fastapi">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=crudapi-fastapi&theme=transparent" alt="CRUD Fast API"/>
 </a>
-<a href="https://github.com/jamescasipong/jcasipong-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=jcasipong-portfolio&theme=transparent" alt="Personal Portfolio"/>
-</a>
 <a href="https://github.com/jamescasipong/isp-services">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=isp-services&theme=transparent" alt="Optinet ISP"/>
 </a>
-
 <a href="https://github.com/jamescasipong/task-tracker">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=task-tracker&theme=transparent" alt="Monitor360"/>
 </a>
 <a href="https://github.com/jamescasipong/hr-management-system">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=hr-management-system&theme=transparent" alt="HRConnect"/>
 </a>
-
+<a href="https://github.com/jamescasipong/jcasipong-portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=jcasipong-portfolio&theme=transparent" alt="Personal Portfolio"/>
+</a>
 
