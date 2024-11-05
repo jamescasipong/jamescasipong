@@ -43,6 +43,7 @@ Welcome to my GitHub profile! Today, I will start working on my GitHub and uploa
 - 👯 I’m looking to collaborate preferably on a web development projects but game projects based in Unity is also fine.
 - 📫 How to reach me: jamesxcasipong@gmail.com --->
 
+<!--- 
 ## 🚀 About Me
 ```js
 cons aboutMe = () => {
@@ -51,8 +52,9 @@ cons aboutMe = () => {
     let imMastering = 'ViteJS, TypeScript, Laravel, Firebade, & ASP.NET';
     let contact = 'jamesxcasipong@gmail.com';
 }
-```
+``` --->
 
+<!--- 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="Spotify" width="20" height="20" /> My Spotifyyyyyy
 
 <p align="center">
@@ -88,6 +90,7 @@ cons aboutMe = () => {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamescasipong&layout=compact&theme=transparent" alt="Top Langs"/>
   <!--<img height="180em" src="https://streak-stats.demolab.com?user=jamescasipong&theme=transparent" alt="GitHub Streak"/>-->
 </div>
+ --->
  
 ## 📌 My Projects
 
