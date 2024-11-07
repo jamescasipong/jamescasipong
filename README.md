@@ -94,6 +94,7 @@ cons aboutMe = () => {
  
 ## 📌 My Projects
 
+<div align="center">
 <a href="https://github.com/jamescasipong/Touch-Me-Not-2D-RPG">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=Touch-Me-Not-2D-RPG&theme=transparent" alt="Touch Me Not 2D RPG"/>
 </a>
@@ -121,4 +122,4 @@ cons aboutMe = () => {
 <a href="https://github.com/jamescasipong/social-media-app">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=social-media-app&theme=transparent" alt="SocMedia"/>
 </a>
-
+</div>
