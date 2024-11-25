@@ -1,8 +1,8 @@
-<p align="center">
+<!--<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=2000&pause=1500&color=F71168&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi%2C+James+here!;A+Full+Stack+Developer;A+Software+Engineer;A+Game+Developer;%3A))" alt="Typing SVG" />
   </a>
-</p>
+</p>->
 
 
 <!--Full Stack Developer | Software Engineer | Game Developer | Former C# Enthusiast -> JS & Python Enjoyer-->
