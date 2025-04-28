@@ -47,9 +47,9 @@ Welcome to my GitHub profile! Today, I will start working on my GitHub and uploa
 ```js
 cons aboutMe = () => {
     let nationality = 'Filipino';
-    let progLanguages = 'C#, Java, JavaScript, TypeScript, Python, PHP';
+    let progLanguages = 'C#, Java, JavaScript, TypeScript, Python';
     let technologies = 'ASP.NET MVC & API, Express.js, Node.js, Next.js, React.js, Tailwind CSS';
-    let DB = 'NoSQL => MongoDB, SQL => MySQL, MariaDB';
+    let DB = 'NoSQL => MongoDB, SQL => PostgreSQL, SQL Server, MySQL (MariaDB)';
     let contact = 'jamesxcasipong@gmail.com';
 }
 ``` 
