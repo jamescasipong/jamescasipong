@@ -126,6 +126,6 @@ cons aboutMe = () => {
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=Pilipinas2025&theme=transparent" alt="Pilipinas2025"/>
 </a>
 <a href="https://github.com/jamescasipong/transfer_ownership_gdrive">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=transfer_ownership_gdrive&theme=transparent" alt="transfer_ownership_gdrive"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=transfer_ownership_gdrive&theme=transparent" alt="Transfer Ownership"/>
 </a>
 </div>
