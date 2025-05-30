@@ -54,7 +54,6 @@ cons aboutMe = () => {
 }
 ``` 
 
-<!--- 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="Spotify" width="20" height="20" /> My Spotifyyyyyy
 
 <p align="center">
@@ -62,6 +61,7 @@ cons aboutMe = () => {
 </p>
 
 
+<!--- 
 
 ## 🛠️ Technologies & Tools
 
