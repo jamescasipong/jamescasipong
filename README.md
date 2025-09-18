@@ -82,14 +82,14 @@ cons aboutMe = () => {
 
 
 
-
+<!---
 ## 📈 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamescasipong&show_icons=true&theme=transparent" alt="James Casipong's GitHub stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamescasipong&layout=compact&theme=transparent" alt="Top Langs"/>
-  <!--<img height="180em" src="https://streak-stats.demolab.com?user=jamescasipong&theme=transparent" alt="GitHub Streak"/>-->
-</div>
+  <!--<img height="180em" src="https://streak-stats.demolab.com?user=jamescasipong&theme=transparent" alt="GitHub Streak"/>
+</div> 
 
  
 ## 📌 My Projects
@@ -129,3 +129,4 @@ cons aboutMe = () => {
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamescasipong&repo=transfer_ownership_gdrive&theme=transparent" alt="transfer_ownership_gdrive"/>
 </a>
 </div>
+-->
