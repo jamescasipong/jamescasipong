@@ -82,7 +82,6 @@ cons aboutMe = () => {
 
 
 
-<!---
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -91,7 +90,8 @@ cons aboutMe = () => {
   <!--<img height="180em" src="https://streak-stats.demolab.com?user=jamescasipong&theme=transparent" alt="GitHub Streak"/>
 </div> 
 
- 
+ <!---
+
 ## 📌 My Projects
 
 <div align="center">
